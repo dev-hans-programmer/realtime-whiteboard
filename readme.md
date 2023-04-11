@@ -1,6 +1,6 @@
 # Welcome to the Realtime Whiteboard Code Repository!
 
-**This repository showcases an interactive whiteboard application built using Node.js and React.js. The application allows users to collaborate in real-time, drawing and writing on a virtual canvas, making it ideal for remote team collaboration, online tutoring, brainstorming sessions, and more.**
+This repository showcases an interactive whiteboard application built using Node.js and React.js. The application allows users to collaborate in real-time, drawing and writing on a virtual canvas, making it ideal for remote team collaboration, online tutoring, brainstorming sessions, and more.
 
 ## Features:
 
@@ -17,6 +17,7 @@
 2. React.js: Offers a performant and interactive user interface for drawing and interacting with the whiteboard in real-time.
 3. WebSockets: Enables real-time communication between the server and clients for seamless collaboration.
 4. MongoDB: Used for data persistence, storing whiteboard data and user information securely.
+5. Roughjs: Used to draw in a sketchy and hand written style
 
 ## Getting Started:
 
